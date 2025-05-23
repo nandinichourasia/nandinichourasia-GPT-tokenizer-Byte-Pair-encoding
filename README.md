@@ -4,8 +4,8 @@ BPE is a sub-word based tokenization algorithm.The word Based tokenization Algor
 
 # ✅ Features & Advantages of BPE over Word-Based Tokenization
 Feature	BPE	Word-Based Tokenization
-🔤 Handles unknown words	
-💬 Robust to new words	
-📉 Reduces vocabulary size	
-📚 Learns meaningful word parts
+🔤 Handles unknown words<br>
+💬 Robust to new words	<br>
+📉 Reduces vocabulary size<br>	
+📚 Learns meaningful word parts<br>
 
