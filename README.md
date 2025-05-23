@@ -7,4 +7,6 @@ BPE is a sub-word based tokenization algorithm.The word Based tokenization Algor
 💬 Robust to new words	<br>
 📉 Reduces vocabulary size<br>	
 📚 Learns meaningful word parts<br>
+✂️ Token reuse across words<br>
+💾 Efficient memory usage<br>
 
