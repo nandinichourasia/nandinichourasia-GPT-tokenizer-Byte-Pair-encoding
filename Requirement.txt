@@ -1,0 +1,7 @@
+All you need for successfully running this code is simply go on your visual studio , your VS studio should support the python code make sure you have downloaded all the necessary extensions.
+Install Tiktoken ,which is a tokenizer library developed by OpenAI.
+
+Go to the terminal and type - 
+! pip3 install tiktoken
+
+After that run the script , now you can observe that BPE can also handle out of vocab words efficiently.
